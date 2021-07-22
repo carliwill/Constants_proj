@@ -1,0 +1,15 @@
+NIST html form for Correlation Coeff Calculator
+
+https://physics.nist.gov/cuu/Correlations/index.html
+
+"<tr><form name="Browse First Value" action=/cgi-bin/cuu/CCsearch method=get>
+        <td align=right><font face="Myriad Roman,Syntax,Arial,Helvetica" size=5 color=#006633> Or&nbsp;</font></td>
+        <td align=left NOWRAP><font face="Myriad Roman,Syntax,Arial,Helvetica" size=5 color=#006633>browse the complete constants list&nbsp;</font></td>
+        <td><font face="Myriad Roman,Syntax,Arial,Helvetica" size=4 color=#006633><b><input type=submit name="ShowFirst" value=Browse>&nbsp;</b></font></td></form></tr>
+	</table><p><font face="Myriad Roman,Syntax,Arial,Helvetica" size=5 color=#9e0011><b>See also</b></font>
+    <a href=../Units/introduction.html><font face="Myriad Roman,Syntax,Arial,Helvetica" size=4 color=#330099><br></font></a><font face="Myriad Roman,Syntax,Arial,Helvetica" size=4 color=#9e0011>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><a href=../Constants/Citations/Search.html><font face="Myriad Roman,Syntax,Arial,Helvetica" size=4 color=#330099>Searchable bibliography</font></a><font face="Myriad Roman,Syntax,Arial,Helvetica" size=4 color=#330099> on the constants</font><br><font face="Myriad Roman,Syntax,Arial,Helvetica" size=4 color=#9e0011>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><a href=../Constants/background.html><font face="Myriad Roman,Syntax,Arial,Helvetica" size=4 color=#330099>Background information</font></a><font face="Myriad Roman,Syntax,Arial,Helvetica" size=4 color=#330099> related to the constants</font><br><font face="Myriad Roman,Syntax,Arial,Helvetica" size=4 color=#9e0011>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><a href=../Constants/links.html><font face="Myriad Roman,Syntax,Arial,Helvetica" size=4 color=#330099>Links</font></a><font face="Myriad Roman,Syntax,Arial,Helvetica" size=4 color=#330099> to selected scientific data</font><p>&nbsp;&nbsp;&nbsp;</td></tr>
+  <tr>"
+
+  https://docs.scipy.org/doc/scipy/reference/constants.html#rc437f0a4090e-codata2018
+
+John Barrow on Constants:  https://youtu.be/INdSQ_otxqg
