@@ -1,0 +1,429 @@
+﻿,,,,
+Constant,,Dimension,Alias,Definition & Notes
+Universal constants used in too many categories to constrain their scope ,,,,
+Speed of light c ,2.997 924 580 e+8 ,m.s-1,m/s ,Assigned (see SI units) 
+Permeability of vacuum μ0 ,12.566 370 614 359 ... e-7 ,kg.m.s-2.A-2,H/m | N/A2,= 4π.10-7. Assigned.
+Permittivity of vacuum ε0 ,8.854 187 817 620 ... e-12 ,kg-1.m-3.s4.A2,F/m ,= 1 / (c2 μ0). Assigned.
+Gravitation constant G ,6.673 84[80] e-11 ,kg-1.m3.s-2,,force = G M1M2 / r122
+Planck constant h ,6.626 069 57[29] e-34 ,kg.m2.s-1,J.s ,#NAME?
+Angular Planck constant ,1.054 571 726[47] e-34 ,kg.m2.s-1,J.s ,"= h/2π, the angular momentum quantum"
+Charge/Quantum ratio ,2.417 989 348[53] e+14 ,kg-1.m-2.s2.A,A/J ,= e / h 
+Elementary charge e ,1.602 176 565[35] e-19 ,s.A ,C ,
+Quantum/Charge ratio ,4.135 667 52[10] e-15 ,kg.m2.s-2.A-1,J/A ,= h / e 
+Fine structure constant α ,7.297 352 5698[24] e-3 ,Dimensionless ,,= μ0 c e2 / 2h.
+Inverse of fine structure constant,137.035 999 074[45] ,Dimensionless ,,= 1/α = 2h / (μ0 c e2). See ref.[1].
+Boltzmann constant k ,1.380 6488[13] e-23 ,kg.m2.s-2.K-1,J/K ,Sets thermodynamic temperature 
+Planck mass mp ,2.176 51[13] e-8 ,kg ,,mp2 = (h/2π) c / G 
+Planck time tp ,5.391 06[32] e-44 ,s ,,= (h/2π) / (mpc2)
+Planck length lp ,1.616 199[97] e-35 ,m ,,= ctp 
+Planck temperature ,1.416 833[85] e+32 ,K ,,= mpc2 / k
+Electromagnetic constants other than those already listed ,,,,
+Impedance of vacuum Z0 ,376.730 313 461 ... ,kg.m2.s-3.A-2,Ω ,Derived from assigned's: Z02 = μ0/ε0.
+Magnetic flux quantum Φ0 ,2.067 833 758[46] e-15 ,kg.m2.s-2.A-1,Wb ,= h / 2e 
+Josephson constant KJ ,4.835 978 70[11] e14 ,kg-1.m-2.s2.A,Hz/V ,= 2e / h . Conventional: 483597.9 GHz/V
+von Klitzing constant RK ,2.581 280 744 34[84] e+4 ,kg.m2.s-3.A-2,Ω ,= h / e2.  Conventional: 25812.807 Ω
+Conductance quantum G0 ,7.748 091 7346[25] e-5 ,kg-1.m-2.s3.A2,S ,= 2e2 / h = 2 / RK
+Inverse of conductance quantum ,1.290 640 372 17[42] e+4 ,kg.m2.s-3.A-2,Ω ,= RK / 2 
+"Electromagnetic radiation constants. For solar constant, see solar system ",,,,
+Stefan-Boltzmann const. σ ,5.670 373[21] e-8 ,kg.s-3.K-4,W/m2.K4,= 2 π5 k4 / 15 h3 c2 
+1st radiation constant c1 ,3.741 771 53[17] e-16 ,kg.m4.s-3,W.m2,= 2 π h c2 
+2nd radiation constant c2 ,1.438 7770[13] e-2 ,m.K ,,= h c / k 
+Wien λ displacement constant λmaxT ,2.897 7721[26] e-3 ,m.K ,,= c2 / 4.9651423... 
+Wien f displacement constant f/T ,5.878 9254[53] e+10 ,s-1.K-1,Hz/K ,
+Max. luminous efficacy: absolute ,683 ,cd.sr.kg-1.m-1.s3,lm/W ,"100% efficient, ideal 555 nm light source. "
+Max. luminous efficacy: black-body ,95 ,cd.sr.kg-1.m-1.s3,lm/W ,Achieved at 7000 °K 
+Solar luminous efficacy ,93 ,cd.sr.kg-1.m-1.s3,lm/W ,see Wikipedia 
+Solar illuminance ,1.280[10] e5 ,cd.sr.m-2,lx ,"in the brightest sunlight, on Earth "
+Electron and atomic physics constants ,,,,
+Rydberg constant R∞ ,1.097 373 156 8539[55] e+7 ,m-1,m-1,= c α2 me / 2h 
+Hartree energy EH ,4.359 744 34[19] e-18 ,kg.m2.s-2,J ,= α2 me c2 = 2h c R∞ 
+Bohr radius ,5.291 772 1092[17] e-11 ,m ,m ,= α / (4π R∞) 
+Bohr magneton μB ,9.274 009 68[20] e-24 ,m2.A,J/T ,= (1/2)(h/2π)(e/me) 
+Bohr magneton in Hz/T ,1.399624555[31] e+10 ,kg-1.s.A,Hz/T ,= μB/h = [Larmor frequency]/[g-factor]; ~ 14 GHz/T 
+Quantum of circulation ,3.636 947 5520[24] e-4 ,m2.s-1,m2/s,= h / 2me 
+Richardson constant ,1.20173 e+6 ,A.m-2.K-2,,= 4πemek2 / h3; arises in thermionic emission 
+"Electron (stable lepton, charge -1, spin 1/2, fermion, its antiparticle positron has positive charge) ",,,,
+Electron rest mass me ,9.109 382 91[40] e-31 ,kg ,,= 5.485 799 0946[22] e-4 u 
+Electron rest energy (mec2) ,8.187 105 06[36] e-14 ,kg.m2.s-2,J ,= 0.510 998 928[11] MeV 
+Electron charge/mass ratio ,- 1.758 820 088[39] e11 ,kg-1.s.A,C/kg ,= e / me 
+"Compton wavelength of electron λC,e ",2.426 310 2389[16] e-12 ,m ,,= h / c me 
+Classical electron radius re ,2.817 940 3267[27] e-15 ,m ,,= e2 / (4πε0mec2 )
+Thomson cross section σe ,0.665 245 8734[13] e-28 ,m2,,= (8π/3) re2
+Electron magnetic moment μe ,- 9.284 764 30[21] e-24 ,m2.A,J/T ,
+Electron g-factor ge ,- 2.002 319 304 361 53[53] ,Dimensionless ,,= (μe / μB) / Se 
+Electron magnetic moment anomaly ,1.159 652 180 76[27] e-3 ,Dimensionless ,,= (abs(ge) - 2) / 2 
+Electron gyromagnetic ratio γe/2π ,28.024 952 66[62] e+9 ,kg-1.s.A,Hz/T ,= μe / (hSe); ~ 28 GHz/T 
+Electron/Proton mass ratio ,5.446 170 2178[22] e-4 ,Dimensionless ,,
+Electron/Proton magnetic moments ratio ,- 658.210 6848[54] ,Dimensionless ,,
+Electron/Proton magnetic moments ratio ,- 658.227 597 1[72] ,Dimensionless ,,Shielded in water; standard conditions 
+Physico-chemical constants ,,,,
+Atomic mass constant u ,1.660 538 921[73] e-27 ,kg ,,Mass of 12C nuclide / 12
+Molar mass of  12C ,12 e-3 ,kg ,,Assigned 
+Molar mass constant ,1.0 e-3 ,kg.mol-1,kg/mol ,Assigned 
+Boltzmann constant k ,1.380 6488[13] e-23 ,kg.m2.s-2.K-1,J/K ,Sets thermodynamic temperature 
+Boltzmann constant in eV/K ,8.617 3324[78] e-5 ,kg.m2.s-3.A-1.K-1,V/K ,= k/e. Electrochemical potential ~ (k/e)T ln(c1/c2) 
+Avogadro's number NA ,6.022 141 29[27] e+23 ,mol-1,count/mol ,~ 602 Z (Zetta) particles in a mole of substance 
+Molar Planck constant ,3.990 312 7176[28] e-10 ,kg.m2.s-1.mol-1,J.s/mol ,= h NA 
+Molar Planck constant by c ,0.119 626 565 779[84] ,kg.m3.s-2.mol-1,J.m/mol ,= h c NA 
+Electron molar mass ,5.485 799 0946[22] e-7 ,kg.mol-1,kg/mol ,= me NA 
+Electron molar charge ,- 9.648 533 65[21] e+4 ,s.A.mol-1,C/mol ,= e NA. 
+Faraday constant F ,+9.648 533 65[21] e+4 ,s.A.mol-1,C/mol ,= |electron molar charge|. 
+Molar gas constant R ,8.314 4621[75] ,kg.m2.s-2.K-1.mol-1,J/K.mol ,= k NA 
+Molar volume of ideal gas Vm ,22.413 968[20] e-3 ,m3.mol-1,m3/mol,"= (RT/p)  at T=273.15 K, p=101325 Pa "
+Loschmidt constant n0 ,2.686 7805[24] e+25 ,m-3,count/m3,"= NA / Vm at T=273.15 K, p=101325 Pa "
+Sackur-Tetrode constant S0/R ,- 1.164 8708[23] ,Dimensionless ,,"(5/2)+ln[(2πmukT/h2)(kT/p)] at T=1K, p=101325 Pa. "
+Basic nuclear physics data (those listed in CODATA) ,,,,
+Fermi coupling GF/(hc/2π)3,3.670 336[31] e+48 ,kg-2,,= (1.026 8365[88] e-5) / mp2
+Fermi coupling in eV-2 ,1.166 364[5] e+4 ,eV-2,,
+Weak mixing angle sin2θW ,0.2223[21] ,Dimensionless ,,= 1- (mW/mZ)2
+Nuclear magneton μN ,5.050 783 53[11] e-27 ,m2.A,J/T ,= (1/2)(h/2π)(e/mp) 
+Nuclear magneton in Hz/T ,7.622 593 57[17] e+6 ,kg-1.s.A,Hz/T ,= μN/h = [Larmor frequency]/[g-factor]; ~ 7.6 MHz/T 
+"Proton (stable baryon, nucleon, hadron, charge +1, spin 1/2, fermion, parity +, isospin 1/2, its anti-particle antiproton has opposite charge) ",,,,
+Proton rest mass mp ,1.672 621 777[74] e-27 ,kg ,,1.007 276 466 812[90] u 
+Proton rest energy (mc2) ,1.503 277 484[66] e-10 ,kg.m2.s-2,J ,938.272 046[21] MeV; quarks composition: uud 
+Proton / electron mass ratio ,1836.15267245[75] ,Dimensionless ,,inverse: 5.4461702178[22]e-4 
+"Compton wavelength of proton λC,p ",1.321 409 856 23[94] e-15 ,m ,,"λC,p = h / c mp "
+Proton rms charge radius ,0.8775[51] e-15 ,m ,,
+Proton magnetic moment ,1.410 606 743[33] e-26 ,m2.A,J/T ,μp 
+Proton g-factor ,5.585 694 713[46] ,Dimensionless ,,= μp / (Sp μN) 
+Proton gyromagnetic ratio ,42.577 4806[10] e+6 ,kg-1.s.A,Hz/T ,γp = μp / h Sp. 
+Proton gyromagnetic ratio shielded,42.576 388 1[12] e+6 ,kg-1.s.A,Hz/T ,"In H2O,  standard conditions"
+Proton magnetic shielding ,25.694[14] e-6 ,Dimensionless ,,Relative value for pure water at 25 °C 
+Electric dipole moment ,< 8.7 e-45 ,m.s.A ,C.m ,< 5.4 e-24 e.cm; existence not confirmed 
+Electric polarizibility ,1.20[6] e-48 ,m3,,
+Magnetic polarizibility ,1.9[5] e-49 ,m3,,
+"Neutron (baryon, nucleon, hadron, charge 0, spin 1/2, fermion, parity +, isospin 1/2, its anti-particle is antineutron) ",,,,
+Neutron rest mass mn ,1.674 927 351[74] e-27 ,kg ,,1.008 664 916 00[43] u 
+Neutron rest energy (mc2) ,1.505 349 631[66] e-10 ,kg.m2.s-2,J ,939.565 379[21] MeV; quarks composition udd 
+"Compton wavelength of neutron λC,n ",1.319 590 9068[11] e-15 ,m ,,"λC,n = h / c mn "
+Neutron half-life time ,881.5[15] ,s ,,Beta-decay into proton + e- + νe 
+Neutron magnetic moment ,- 0.966 236 47[23] e-26 ,m2.A,J/T ,μn 
+Neutron g-factor ,- 3.826 085 45[90] ,Dimensionless ,,= μn / (Sn μN) 
+Neutron gyromagnetic ratio ,29.164 6943[69] e+6 ,kg-1.s.A,Hz/T ,γn = μn / h Sn 
+Electric dipole moment ,< 4.6 e-47 ,m.s.A ,C.m ,< 2.9 e-26 e.cm; existence not confirmed 
+Electric polarizibility ,1.16[15] e-48 ,m3,,
+Magnetic polarizibility ,3.7[20] e-49 ,m3,,
+"Deuteron (stable nuclide, protons 1, neutrons 1, charge +1, spin 1, boson) ",,,,
+Deuteron rest mass ,3.343 583 48[15] e-27 ,kg ,,2.013 553 212 712[77] u 
+Deuteron rest energy (mc2) ,3.005 062 97[13] e-10 ,kg.m2.s-2,J ,1875.612 859[41] MeV 
+Deuteron rms charge radius ,2.1424[21] e-15 ,m ,,
+Deuteron magnetic moment ,0.433 073 489[10] e-26 ,m2.A,J/T ,
+Deuteron g-factor ,0.857 438 2308[72] ,Dimensionless ,,
+Deuteron gyromagnetic ratio ,6.535 903 381 41 e+6 ,kg-1.s.A,Hz/T ,
+Deuteron quadrupole moment ,4.581 e-50 ,m2.s.A,C.m2 ,0.2859 e(fm)2 
+"Triton (stable nuclide, protons 1, neutrons 2, charge +1, spin 1/2, fermion) ",,,,
+Triton rest mass ,5.007 356 30[22] e-27 ,kg ,,3.015 500 7134[25] u 
+Triton rest energy (mc2) ,4.500 387 41[20] e-10 ,kg.m2.s-2,J ,2808.921 005[62] MeV 
+Triton half-life time ,3.888[70] e+8 ,s ,,= 12.32 years; beta-decay into 3He + e- + νe 
+Triton magnetic moment ,1.504 609 447[38] e-26 ,m2.A,J/T ,
+Triton g-factor ,5.957 924 896[76] ,Dimensionless ,,
+Triton gyromagnetic ratio ,45.413 674 6[13] e+6 ,kg-1.s.A,Hz/T ,
+"Helion (stable nuclide, protons 2, neutrons 1, charge +2, spin 1/2, fermion, nuclide) ",,,,
+Helion rest mass ,5.006 412 34[22] e-27 ,kg ,,3.014 932 2468[25] u 
+Helion rest energy (mc2) ,4.499 539 02[20] e-10 ,kg.m2.s-2,J ,2808.391 482[62] MeV 
+Helion magnetic moment ,- 1.074 617 486[27] e-26 ,m2.A,J/T ,Shielded 
+Helion g-factor ,- 4.255 250 613[50] ,Dimensionless ,,
+Helion gyromagnetic ratio ,32.434 101 98[90] e+6 ,kg-1.s.A,Hz/T ,Shielded 
+"Alpha particle (stable nuclide, protons 2, neutrons 2, charge +2, spin 0, magnetic moment 0, boson) ",,,,
+α-particle rest mass ,6.644 656 75[29] e-27 ,kg ,,4.001 506 179 125[62] u 
+α-particle rest energy (mc2) ,5.971 919 67[26] e-10 ,kg.m2.s-2,J ,3727.379 240[82] MeV 
+Particle physics data (source: Particle Data Group) ,,,,
+"Neutrinos ν (stable leptons, charge 0, exist in e,μ,τ flavors, each has matter / anti-matter version with opposite chirality, spin 1/2, fermions) ",,,,
+Electron neutrino νe rest energy (mc2) ,max 3.5 e-13 ,kg.m2.s-2,J ,0 to 2.2 eV 
+Muon neutrino νμ rest energy (mc2) ,max 0.27 e-13 ,kg.m2.s-2,J ,0 to 0.17 MeV 
+Tau neutrino ντ rest energy (mc2) ,max 24.8 e-13 ,kg.m2.s-2,J ,0 to 15.5 MeV 
+"Muon μ± (lepton, charge ±1, matter μ-, antimatter μ+, spin 1/2, fermion) ",,,,
+Muon rest energy (mc2) ,1.692 833 667[86] e-11 ,kg.m2.s-2,J ,105.658 3715[35] MeV 
+Muon rest mass ,1.883 531 475[96] e-28 ,kg ,,0.113 428 9267[29] u 
+Muon magnetic moment ,- 4.490 448 07[15] e-26 ,m2.A,J/T ,
+Muon g-factor gμ ,- 2.002 331 8418[13] ,Dimensionless ,,(μ / μB) * (m / me) / spin 
+Muon magnetic moment anomaly ,1.165 920 91[63] e-3 ,Dimensionless ,,(abs(gμ) - 2) / 2 
+Muon gyromagnetic ratio ,135.538 817[12] e+6 ,kg-1.s.A,Hz/T ,= μn / h Sn 
+Muon half-life time ,1.52 e-6 ,s ,,
+"Tau τ± (lepton, charge ±1, matter τ-, antimatter τ+, spin 1/2, fermion) ",,,,
+Tau rest energy (mc2) ,2.846 78[26] e-10 ,kg.m2.s-2,J ,1776.82[16] MeV 
+Tau rest mass ,3.167 47[29] e-27 ,kg ,,1.907 49[17] u 
+Tau half-life time ,2.9 e-13 ,s ,,
+"Quarks with charge +2/3 (baryon number 1/3, exist in u,c,t flavors, each has matter / anti-matter versions with some property flipped, spin 1/2, fermions) ",,,,
+u (up) quark rest energy (mc2) ,3.8 e-13 ,kg.m2.s-2,J ,"2.4 MeV, stable "
+c (charm) quark rest energy (mc2) ,2.03 e-10 ,kg.m2.s-2,J ,"1.27 GeV, unstable "
+t (top) quark rest energy (mc2) ,2.743 e-8 ,kg.m2.s-2,J ,"171.2 GeV, terribly unstable "
+"Quarks with charge -1/3 (baryon number 1/3, exist in d,s,b flavors, each has matter / anti-matter versions with some property flipped, spin 1/2, fermions) ",,,,
+d (down) quark rest energy (mc2) ,7.7 e-13 ,kg.m2.s-2,J ,"4.8 MeV, stable "
+s (strange) quark rest energy (mc2) ,1.67 e-11 ,kg.m2.s-2,J ,"104 MeV, unstable "
+b (bottom) quark rest energy (mc2) ,6.7 e-10 ,kg.m2.s-2,J ,"4.2 GeV, unstable "
+"Pions π± (mesons, hadrons, charge ±1, anti-particles of each other, spin 0, boson, parity -, isospin 1) ",,,,
+Pions π± rest energy (mc2) ,2.236 1607[56] e-11 ,kg.m2.s-2,J ,139.570 18[35] MeV 
+Pions π± rest mass ,2.488 0643[62] e-28 ,kg ,,0.149 834 75[37] u 
+Pions π± half-life time ,2.6 e-8 ,s ,,"quarks composition: π+: ud', π-: du' "
+"Pion π0 (meson, hadron, charge 0, its own antiparticle, spin 0, boson, parity -,C-parity +, isospin 1) ",,,,
+Pion π0 rest energy (mc2) ,2.162 5634[96] e-11 ,kg.m2.s-2,J ,134.976 60[60] MeV 
+Pion π0 rest mass ,2.406 176[11] e-28 ,kg ,,0.144 903 34[64] u 
+Pion π0 half-life time ,8.4 e-17 ,s ,,quarks composition: (uu'-dd')/&radiv;2 
+"Kaons K± ('strange' mesons, hadrons, charge ±1, anti-particles of each other, spin 0, boson, parity -, isospin 1/2) ",,,,
+Kaons K± rest energy (mc2) ,7.909 58[26] e-11 ,kg.m2.s-2,J ,493.677[16] MeV 
+Kaons K± rest mass ,8.800 591[29] e-28 ,kg ,,0.529 984[17] u 
+Kaons K± half-life time ,1.2380[21] e-8 ,s ,,"quarks composition: K+: us', K-: su' "
+"Kaon K0 ('strange' meson, hadron, charge 0, self-antiparticle, spin 0, boson, isospin 1/2, parity -) ",,,,
+Kaon K0 rest energy (mc2) ,7.972 65[38] e-11 ,kg.m2.s-2,J ,497.614[24] MeV; quarks: see below 
+Kaon K0 rest mass ,8.870 77[42] e-28 ,kg ,,0.534 211[26] u 
+Kaon K0L half-life time (long) ,5.116[20] e-8 ,s ,,quarks composition: (ds'+sd')/√2 
+Kaon K0S half-life time (short) ,8.953[5] e-11 ,s ,,quarks composition: (ds'-sd')/√2 
+"Eta mesons η and η' (hadrons, charge 0, antiparticles of each other, spin integer, bosons,  ",,,,
+η rest energy (mc2) ,8.777 57[38] e-11 ,kg.m2.s-2,J ,547.853[24] MeV 
+η rest mass ,9.766 36[42] e-28 ,kg ,,0.588 144[25] u 
+η half-life time ,5.0[3] e-19  ,s ,,quarks composition: (uu'+dd'-2ss')/√6 
+η' rest energy (mc2) ,1.53434[38] e-10 ,kg.m2.s-2,J ,957.66[24] MeV 
+η' rest mass ,1.70718[43] e-27 ,kg ,,1.02809[26] u 
+η' half-life time ,3.2[2] e-21  ,s ,,quarks composition: (uu'+dd'+ss')/√3 
+"Lambda hyperons (baryons, charge 0 or +1, spin 1/2, fermions, parity +; predicted only: top Λt+, quarks udt, but t-quark decays before it hadronizes) ",,,,
+Λ0 rest energy (mc2) ,1.7875211[96] e-10 ,kg.m2.s-2,J ,1.1156830[60] GeV; charge 0 
+Λ0 rest mass ,1.988885[11] e-27 ,kg ,,1.1977349[64] u 
+Λ0 half-life time ,2.631[20] e-10 ,s ,,quarks composition: uds 
+Bottom Λ0b rest energy (mc2) ,9.0046[26] e-10 ,kg.m2.s-2,J ,5.6202[16] GeV; charge 0 
+Bottom Λ0b rest mass ,1.00189[29] e-26 ,kg ,,6.0335[17] u 
+Bottom Λ0b half-life time ,1.409[55] e-12 ,s ,,quarks composition: udb 
+Charmed Λ+c rest energy (mc2) ,3.66331[22] e-10 ,kg.m2.s-2,J ,2.28646[14] GeV; charge +1 
+Charmed Λ+c rest mass ,4.07599[25] e-27 ,kg ,,2.45462[15] u 
+Charmed Λ+c half-life time ,2.000[60] e-13 ,s ,,quarks composition: udc 
+"Sigma hyperons with spin 1/2 (barions, charge -1, 0, +1 or +2, fermions, parity +; predicted only: udb, uut, udt, ddt) ",,,,
+Σ+ rest energy (mc2) ,1.90558[11] e-10 ,kg.m2.s-2,J ,1.189370[70] GeV; charge +1 
+Σ+ rest mass ,2.12024[12] e-27 ,kg ,,1.276841[75] u 
+Σ+ half-life time ,8.018[26] e-11 ,s ,,quarks composition: uus 
+Σ0 rest energy (mc2) ,1.910823[38] e-10 ,kg.m2.s-2,J ,1.192642[24] GeV; charge 0 
+Σ0 rest mass ,2.126077[43] e-27 ,kg ,,1.280353[26] u 
+Σ0 half-life time ,7.40[70] e-20 ,s ,,quarks composition: uds 
+Σ- rest energy (mc2) ,1.918525[48] e-10 ,kg.m2.s-2,J ,1.197449[30] GeV; charge -1 
+Σ- rest mass ,2.13465[53] e-27 ,kg ,,1.285514[32] u 
+Σ- half-life time ,1.479[11] e-10 ,s ,,quarks composition: dds 
+Charmed Σc++ rest energy (mc2) ,3.93177[29] e-10 ,kg.m2.s-2,J ,2.45402[18] GeV; charge +2 
+Charmed Σc++ rest mass ,4.37469[32] e-27 ,kg ,,2.63450[19] u 
+Charmed Σc++ half-life time ,3.00[40] e-22 ,s ,,quarks composition: uuc 
+Charmed Σc+ rest energy (mc2) ,3.92998[64] e-10 ,kg.m2.s-2,J ,2.45290[40] GeV; charge +1 
+Charmed Σc+ rest mass ,4.37269[71] e-27 ,kg ,,2.63330[43] u 
+Charmed Σc+ half-life time ,>1.4 e-22 ,s ,,quarks composition: udc 
+Charmed Σc0 rest energy (mc2) ,3.93136[29] e-10 ,kg.m2.s-2,J ,2.45376[18] GeV; charge 0 
+Charmed Σc0 rest mass ,4.37422[32] e-27 ,kg ,,2.63422[19] u 
+Charmed Σc0 half-life time ,3.0 e-22 ,s ,,quarks composition: ddc 
+Bottom Σb+ rest energy (mc2) ,9.3051[62] e-10 ,kg.m2.s-2,J ,5.8078[39] GeV; charge +1 
+Bottom Σb+ rest mass ,1.03533[69] e-26 ,kg ,,6.2349[42] u 
+Bottom Σb+ half-life time ,? ,s ,,quarks composition: uub 
+Bottom Σb- rest energy (mc2) ,9.3170[43] e-10 ,kg.m2.s-2,J ,5.8152[27] GeV; charge -1 
+Bottom Σb- rest mass ,1.03665[48] e-26 ,kg ,,6.2429[30] u 
+Bottom Σb- half-life time ,? ,s ,,quarks composition: ddb 
+"Sigma* hyperons with spin 3/2 (barions, charge -1, 0, +1 or +2, fermions, parity +; predicted only: uub, udb, ddb, uut, udt, ddt) ",,,,
+Σ*+ rest energy (mc2) ,2.21549[64] e-10 ,kg.m2.s-2,J ,1.38280[40] GeV; charge +1 
+Σ*+ rest mass ,2.46506[71] e-27 ,kg ,,1.48450[43] u 
+Σ*+ half-life time ,1.840[40] e-23 ,s ,,quarks composition: uus 
+Σ*0 rest energy (mc2) ,2.21693[16] e-10 ,kg.m2.s-2,J ,1.38370[10] GeV; charge 0 
+Σ*0 rest mass ,2.46667[18] e-27 ,kg ,,1.48546[11] u 
+Σ*0 half-life time ,1.80[30] e-23 ,s ,,quarks composition: uds 
+Σ*- rest energy (mc2) ,2.22254[80] e-10 ,kg.m2.s-2,J ,1.38720[50] GeV; charge -1 
+Σ*- rest mass ,2.47291[89] e-27 ,kg ,,1.48922[54] u 
+Σ*- half-life time ,1.670[90] e-23 ,s ,,quarks composition: dds 
+Charmed Σ*++c rest energy (mc2) ,4.03492[96] e-10 ,kg.m2.s-2,J ,2.51840[60] GeV; charge +2 
+Charmed Σ*++c rest mass ,4.4894[11] e-27 ,kg ,,2.70361[64] u 
+Charmed Σ*++c half-life time ,4.40[60] e-23 ,s ,,quarks composition: uuc 
+Charmed Σ*+c rest energy (mc2) ,4.0335[37] e-10 ,kg.m2.s-2,J ,2.5175[23] GeV; charge +1 
+Charmed Σ*+c rest mass ,4.4879[41] e-27 ,kg ,,2.7026[25] u 
+Charmed Σ*+c half-life time ,> 3.9 e-23 ,s ,,quarks composition: udc 
+Charmed Σ*0c rest energy (mc2) ,4.03428[80] e-10 ,kg.m2.s-2,J ,2.518 GeV; charge 0 
+Charmed Σ*0c rest mass ,4.48874[89] e-27 ,kg ,,2.70318[54] u 
+Charmed Σ*0c half-life time ,4.10[50] e-23 ,s ,,quarks composition: ddc 
+"Xi hyperons (barions, charge -1, 0, +1, spin 1/2, fermions, parity +; predicted only: ucc, ubb, dbb, ucb, dcb) ",,,,
+Ξ0 rest energy (mc2) ,2.106638[32] e-10 ,kg.m2.s-2,J ,1.31486[20] GeV; charge 0 
+Ξ0 rest mass ,2.34395[35] e-27 ,kg ,,1.41156[21] u 
+Ξ0 half-life time ,2.900[90] e-10 ,s ,,quarks composition: uss 
+Ξ- rest energy (mc2) ,2.11697[21] e-10 ,kg.m2.s-2,J ,1.32131[13] GeV; charge -1 
+Ξ- rest mass ,2.35544[23] e-27 ,kg ,,1.41848[14] u 
+Ξ- half-life time ,1.639[15] e-10 ,s ,,quarks composition: dss 
+Charmed Ξc+ rest energy (mc2) ,3.95401[64] e-10 ,kg.m2.s-2,J ,2.46790[40] GeV; charge +1 
+Charmed Ξc+ rest mass ,4.39943[71] e-27 ,kg ,,2.64940[43] u 
+Charmed Ξc+ half-life time ,4.42[26] e-13 ,s ,,quarks composition: usc 
+Charmed Ξc0 rest energy (mc2) ,3.95898[64] e-10 ,kg.m2.s-2,J ,2.47100[40] GeV; charge 0 
+Charmed Ξc0 rest mass ,4.40496[71] e-27 ,kg ,,2.65273[43] u 
+Charmed Ξc0 half-life time ,1.12[13] e-13 ,s ,,quarks composition: dsc 
+Double charmed Ξcc+ rest energy (mc2) ,5.6379[14] e-10 ,kg.m2.s-2,J ,3.51890[90] GeV; charge +1 
+Double charmed Ξcc+ rest mass ,6.2730[16] e-27 ,kg ,,3.77769[97] u 
+Double charmed Ξcc+ half-life time ,< 3.3 e-14 ,s ,,quarks composition: dcc 
+Bottom Ξb0 rest energy (mc2) ,9.2798[48] e-10 ,kg.m2.s-2,J ,5.7920[30] GeV; charge 0 
+Bottom Ξb0 rest mass ,1.0325[53] e-26 ,kg ,,6.2180[32] u 
+Bottom Ξb0 half-life time ,1.42[28] e-12 ,s ,,quarks composition: usb 
+Bottom Ξb- rest energy (mc2) ,9.2815[48] e-10 ,kg.m2.s-2,J ,5.7929[30] GeV; charge -1 
+Bottom Ξb- rest mass ,1.0335[53] e-26 ,kg ,,6.2191[32] u 
+Bottom Ξb- half-life time ,1.42[28] e-12 ,s ,,quarks composition: dsb 
+"Ξ resonances:  {uss, S=3/2, 1.53180[32] GeV}, {dss, S=3/2, 1.53500[60] GeV}, {usc, S=1/2, 2.57570[31] GeV}, {dsc, S=1/2, 2.57800[29] GeV, 1.1e-13 s},  ",,,,
+"Omega hyperons (barions, charge -1 or 0, spin 1/2 or 3/2, fermions, parity +; predicted only: scc, scb, sbb, ccc, ccb, cbb, bbb) ",,,,
+Ω- rest energy (mc2) ,2.67956[46] e-10 ,kg.m2.s-2,J ,"1.67245[29] GeV; charge -1, spin 3/2 "
+Ω- rest mass ,2.98141[52] e-27 ,kg ,,1.79544[31] u 
+Ω- half-life time ,8.21[11] e-11 ,s ,,quarks composition: sss 
+Charmed Ω0c rest energy (mc2) ,4.3219[41] e-10 ,kg.m2.s-2,J ,"2.6975[26] GeV; charge 0, spin 1/2 "
+Charmed Ω0c rest mass ,4.8087[28] e-27 ,kg ,,2.8959[28] u 
+Charmed Ω0c half-life time ,6.9[12] e-14 ,s ,,quarks composition: ssc 
+Bottom Ω-b rest energy (mc2) ,9.700[11] e-10 ,kg.m2.s-2,J ,"6.0544[68] GeV; charge -1, spin 1/2 "
+Bottom Ω-b rest mass ,1.0793[12] e-26 ,kg ,,6.49967[73] u 
+Bottom Ω-b half-life time ,1.13[53] e-12 ,s ,,quarks composition: ssb 
+"W ± gauge boson (charge ±1, matter W -, antimatter W+, spin 1) ",,,,
+W boson rest energy (mc2) ,1.28791[24] e-8 ,kg.m2.s-2,J ,80.385[15] GeV 
+W boson rest mass ,1.432993[25] e-25 ,kg ,,86.296[16] u 
+"Z gauge boson (charge 0, spin 1) ",,,,
+Z boson rest energy (mc2) ,1.460986[33] e-8 ,kg.m2.s-2,J ,91.1876[21] GeV 
+Z boson rest mass ,1.625566[37] e-25 ,kg ,,97.8939[23] u 
+"Higgs boson H0 (charge 0, spin 0, predicted only, not found) ",,,,
+H0 rest energy (mc2) ,2.0042[34] e-8 ,kg.m2.s-2,J ,125.09[21] GeV; ATLAS/CMS 26 Mar 2015 
+H0 rest mass ,2.2299[37] e-25 ,kg ,,134.29[23] u 
+H0 half-life time ,1.56 e-22 ,s ,,"h/(2πΓ), predicted Γ = 4.21 MeV "
+Cosmic microwave background (CMB) ,,,,
+Mean apparent CMB temperature ,2.72548[57] ,K ,Kelvin ,From CMB black-body radiation spectrum 
+rms variations of CMB temperature ,1.8 e-7 ,K ,,18 μK; deviations from perfect isotropy 
+Peak frequency density νmax ,1.6023 e+11 ,Hz ,,"160.23 GHz, corresponding to λ = 1.871 mm "
+Peak wavelength density λmax ,1.063 e-3 ,m ,,"1.063 mm, corresponding to 318.7 GHz "
+"Metrics of the known Universe  (for the prefixes M (Mega), G (Giga), Z (Zetta), and Y (Yocto), click here)  ",,,,
+Diameter visible by Hubble telescope ,8.80[10] e+26 ,m ,,~ 93 G light-years 
+Volume of the visible sphere ,3.60[10] e+80 ,m3,,~ 420 MY light-years3 (Mega-Yocta)
+Mass contained therein ,3.56[10] e+54 ,kg ,,~ 3.56 MYY kg; mostly dark energy & matter 
+Mean density ,9.90[20] e-27 ,kg.m-1,kg/m ,~ 9.9 e-30 g/ml 
+"Age, assuming Big Bang theory ",4.366[54] e+17 ,s ,,~ 13.75±0.17 G years 
+Mean expansion rate ,2.29[13] e-18 ,s-1,,~ 70.8±4.0 (km/s)/Mpc (km/s per Megaparsec)
+Number of stars ,3.0[10] e+23 ,Dimensionless ,,"~ 300 Z , or 0.5 mols of stars "
+Number of galaxies ,1.25[20] e+11 ,Dimensionless ,,"~ 125 G, or 0.2 pico-mols of galaxies "
+Number of fundamental particles ,1.00[25] e+80 ,Dimensionless ,,~ 100 MYYY (Mega-Yocto-Yocto-Yocto) 
+Mean concentration of particles ,0.28[10] ,m-3,counts/m3,"~ 4.5e-28 molar ""solution"" "
+"Milky Way galaxy. Type BSc (barred spiral), lentil-shaped, 9 arms, center in the direction of Sagittarius constellation ",,,,
+Diameter ,1.04[10] e+21 ,m ,,100000 - 120000 light-years (30 - 37 Kpc) 
+Thickness ,1.00[10] e+19 ,m ,,~1000 light-years (~300 pc) 
+Mass ,2.50[50] e+42 ,kg ,,1.25[25] e+12 solar masses 
+Number of stars ,3.0[10] e+11 ,Dimensionless ,count ,~300 e+9 
+Oldest known star ,4.156[50] e+17 ,s ,,13.2 e+9 years 
+Speed with respect to CMB ,5.520[60] e+5 ,m.s-1 ,,552 ± 6 km/s; the absolute galaxy motion 
+Angle between galactic plane and the ecliptic ,1.05[10] ,rad ,,~60 degrees 
+Milky Way arms look like logarithmic-spirals; galaxy is a kind of vortex and its apparent features keep changing faster than the motions of its stars ,,,,
+Arms pattern rotation (apparent) ,1.58[15] e+15 ,s ,,~50 million years; move like ripple patterns 
+Milky Way central bar  ,,,,
+Bar pattern rotation period (apparent) ,5.20[47] e+14 ,s ,,15-18 million years; moves like a ripple pattern 
+Solar system data; see also NASA Planetary Fact Sheets ,,,,
+Distance to Milky Way galaxy center ,2.57[10] e+20 ,m ,,27200 ±1100 light-years 
+Rotation around galaxy center: period ,7.49[39] e+15 ,s ,,225 - 250 million years 
+Rotation around galaxy center: orbital speed ,2.20 e+5 ,m.s-1 ,m/s ,approximately opposed to absolute galaxy motion 
+Absolute speed with respect to CMB ,3.7 e+5 ,m.s-1 ,m/s ,370 km/s; 0.123% of the speed of light 
+Extension (max.aphelion of a minor planet) ,1.598 e+14 ,m ,,over 1068 au; planetoid (87269) 2000 OO67 
+Distance to nearest-neighbour system ,3.970[50] e+16 ,m ,,4.2 light-years; Proxima Centauri 
+"The Sun; spectral class G2V, main sequence (V) yellow dearf (G2). Composition: 73.46% H, 24.85% He, 0.77% O, 0.29 C, 0.16% Fe, 0.12% Ne, 0.09% N ",,,,
+Mass ,1.98910[20] e+30 ,kg ,,330'000 times that of Earth 
+Mean radius ,6.9550[50] e+8 ,m ,,109.2 times that of Earth 
+Flattening ,9 e-6 ,Dimensionless ,,(equatorial - polar)/equatorial radii 
+Volume ,1.41226[50] e+27 ,m3,,1'304'000 times that of Earth 
+Mean density ,1.408 e+3 ,kg.m-3,kg/m3,0.255 times that of Earth 
+Surface gravity on equator ,2.74 e+2 ,m.s-2,m/s2,27.94 g 
+Escape velocity ,6.176 e+2 ,m.s-1,m/s ,55.2 times that of Earth 
+Photosphere temperature ,5778 ,K ,,In the layer emitting the light we see 
+Absolute visual magnitude ,+4.83 ,Dimensionless ,,see stellar magnitudes (Conventional constants) 
+Radiance Isol ,2.009 e+7 ,W.m2.sr-1,,total from the layer emitting the light we see 
+Luminose efficacy ,98 ,lm.kg-1.m-2.s3 ,lm/W ,"see ""Electromagnetic radiation constants"" "
+Luminosity Lsol ,3.841[14] e+26 ,kg.m2.s-3 ,W ,~3.75 e+28 lm 
+Loss of mass due to elmag radiation ,4.273[16] e+9 ,kg.s-1 ,kg/s ,<electromagnetic power output> / c2 
+Total neutrino emissions ,1.830[50] e+38 ,s-1 ,count/s ,Mean value (very variable) 
+Age ,1.4420[14] e+17 ,s ,,4.57 e+9 years 
+Planet Earth in relation to the Sun and the Solar system. The orbit of Earth defines the ecliptic plane. ,,,,
+"Earth aphelion, largest distance from Sun ",1.52098232 e+11 ,m ,,1.01671388 au 
+"Earth perihelion, smallest distance from Sun ",1.47098290 e+11 ,m ,,0.98329134 au 
+Longitude of ascending node ,6.08665006 ,rad ,,348.73936 degrees 
+Argument of perihelion ,1.9933026 ,rad ,,114.20783 degrees 
+Semi-major orbital axis ,1.49598261 e+11 ,m ,,1.00000261 au 
+Earth orbit inclination to Sun equator ,0.1249 ,rad ,,7.155 degrees 
+Earth orbit inclination to invariable plane ,0.0275533 ,rad ,,1.57869 degrees 
+Earth orbital excentricity ,0.01671123 ,Dimensionless ,,will be about 0.015 after 5000 years 
+Mean anomaly of Earth orbit ,3.5751716 e+2 ,Dimensionless ,,
+Earth mean orbital velocity ,2.9780 e+4 ,m.s-1,m/s ,107200 km/h 
+Sun visual brightess from the Earth ,-26.74 ,Dimensionless ,,see stellar magnitudes (Conventional constants) 
+Sun angular diameter seen from the Earth ,0.00919 - 0.00951 ,rad ,,Varies between 0.527 and 0.545 degrees 
+Solar constant (mean value for Earth) ,1.36594[48] e3 ,kg.s-3,W/m2,Elmag irradiation from Sun at 1 AU distance 
+Solar neutrinos flux on Earth surface ,6.50[10] e+14 ,m-2.s-1,,Mean count per m2 per second; very variable 
+Satellites count ,1 natural ,Dimesionless ,,994 artificial (December 2011) 
+Planets: see the PDF document SOLAR SYSTEM PLANETS AT A GLANCE and the NASA Planetary Fact Sheets ,,,,
+Number of planets ,8 ,Dimensionless ,count ,Planetary data table 
+"Minor planets; see also NASA Facts Sheets: Pluto, Chiron, Asteroids, Comets,  ",,,,
+"Registered, with known orbits ",583'767 ,Dimensionless ,count ,Apr 2012; ~3000 are added every month 
+Numbered minor planets ,326'266 ,Dimensionless ,count ,Apr 2012 
+Named minor planets ,17'055 ,Dimensionless ,count ,Apr 2012 
+"Planet Earth (Terra) data, other than those listed above; see also NASA Earth Fact Sheet ",,,,
+Age ,1.4327[14] e+17 ,s ,,4.54 e+9 years 
+Global composition in weight % ,"Fe 32.1, O 30.1, Si 15.1, Mg 13.9, S 2.9, Ni 1.8, Ca 1.5, Al 1.4, the rest: 1.2 ",,,
+Atmospheric composition in weight % ,"N2 78.08, O2 20.95, Ar 0.93, CO2 0.038, the rest: 0.002; extra: 1% of H2O wapor (variable) ",,,
+Mass ,5.9736 e+24 ,kg ,,
+Volume ,1.08321 e+21 ,m3,,108.321 km3 
+Mean density ,5.515 e+3 ,kg.m-3,kg/m3,5.515 g/cm3
+Mean radius ,6.3710 e+6 ,m ,,this is volumetric mean 
+Equatorial radius ,6.3781 e+6 ,m ,,6378.1 km; circumpherence 40075.017 km 
+Polar radius ,6.3568 e+6 ,m ,,6356.8 km; circumpherence 40007.860 km 
+Flattening ,0.00335 ,Dimensionless ,,"f = (a-b)/a; a = equatorial, b = polar radius "
+Surface area ,5.100720 e+14 ,m2,,5.100720 e+8 km2
+Dry land surface area ,1.48940 e+14 ,m2,,1.48940 e+8 km (29.200 %)2
+"Surface temperature, mean ",287.2 ,K ,,14.0 °C; range 184 to 331 K (-90 to 58 °C)) 
+"Surface pressure, mean ",1.01325 e+5 ,kg.m-1.s-2,Pa ,1 atm = 101325 Pa 
+Equatorial surface gravity ,9.780327 ,m.s-2,m/s2,0.99732 g 
+Escape velocity ,1.1186 e+4 ,m.s-1,m/s ,11.186 km/s 
+"Albedo, geometric ",0.367 ,Dimensionless ,,
+"Albedo, Bond ",0.306 ,Dimensionless ,,
+Sidereal rotation period ,8.616410 e+4 ,s ,,"0.99726968 days, or 23 h 56 m 4.100 s "
+Equatorial rotation speed ,465.1 ,m.s-1,m/s ,0.4651 km/s (4.1579 % of escape volocity)) 
+Axial tilt ,0.40763819 ,rad ,,"23.355948 °, or 23 ° 26' 21“.4119 "
+Radius of the core ,3.485 e+6 ,m ,,3485 km 
+Average lunar month ,2.5514430[5] e+6 ,s ,,29 days+ 12 hours+ 44 minutes+ 3 seconds 
+Conventional constants ,,,,
+Molar mass constant ,0.001 ,kg.mol-1,kg/mol ,Assigned (exact) 
+Molar mass of  12C ,0.012 ,kg ,,Assigned (exact) 
+Standard gravity acceleration ,9.806 65 ,m.s-2,m/s2,Assigned. Called 1 g (gee).
+Standard atmosphere ,101 325 ,Pa ,,Assigned. Called 1 atm .
+"Stellar magnitudes. Reference points: Apparent brightness: bolometric, initially Vega was 0 (now it is +0.03). Absolute: the Sun is 4.83 (used to be 4.75)  ",,,,
+Stellar apparent magnitude unit ,2.511 886 431 509 580 ... ,Dimensionless ,a ratio ,1001/5 = 100.4; also stellar brightness 
+Stellar absolute magnitude unit ,2.511 886 431 509 580 ... ,Dimensionless ,a ratio ,Brightness of a star when distant 10 parsecs 
+Conventional engineering constants. See also Math constants pertinent to Engineering definitions ,,,,
+dBm ,,,,
+0 dBm power ,0.001 ,kg.m2.s-3,Watts ,1 mW; assigned 
+0 dBm potential ,0.774 596 669 241 483 ... ,kg.m2.s-3.A-1,Volts ,1 mW into 600 Ohm load 
+0 dBm current ,0.001 290 994 448 736 ... ,A ,Amperes ,1 mW into 600 Ohm load 
+dBW ,,,,
+0 dBW power ,1.0 ,kg.m2.s-3,Watts ,1 W; assigned 
+0 dBW potential ,7.071 067 811 865 475 ... ,kg.m2.s-3.A-1,Volts ,sqrt(Z0); 1 W into 50 Ohm load Z0 
+0 dBW current ,0.141 421 356 237 310 ... ,A ,Amperes ,sqrt(1/Z0); 1 W into 50 Ohm load Z0 
+Conversion of dBW into dBm (additive) ,+30 ,Dimensionless ,dB ,In terms of power 
+Relative luminance Y of RGB color primaries: Y = 0.2126.R + 0.7152.G + 0.0722.B. More info ... ,,,,
+Relative luminance of Red/RGB ,0.2126 ,Dimensionless ,a ratio ,
+Relative luminance of Green/RGB ,0.7152 ,Dimensionless ,a ratio ,Human eye is most sensitive to green 
+Relative luminance of Blue/RGB ,0.0722 ,Dimensionless ,a ratio ,
+Music and acoustics ,,,,
+Frequency of the A4 reference note ,440.0 ,s-1,Hz ,ISO 16 
+Full-octave frequency ratio ,2.0 exact ,Dimensionless ,Ratio ,"C,C#,D,D#,E,F,F#,G,G#,A,A#,B,...next C "
+Half-tone frequency ratio 21/12 ,1.059 463 094 359 295 ... ,Dimensionless ,Ratio ,"12 half-tones per octave, each worth 100 cents "
+"Conversion factors for entities tolerated by SI, as well as some others ",,,,
+Energy & its equivalents ,,,,
+Electron volt ,1.602 176 565[35] e-19 ,kg.m2.s-2,J ,Basic eV-to-SI conversion 
+Electron volt to mass ,1.782 661 845[39] e-36 ,kg ,,mass = energy/c2 
+Electron volt to atomic units u ,1.073 544 150[24] e-9 ,- ,u ,a mass equivalent 
+Electron volt to frequency ,2.417 989 348[53] e+14 ,s-1,Hz ,frequency = energy/h 
+Electron volt to half-life time ,6.582 119 28[22] e-16 ,s ,,Inverse relationship: τ = h/(2πΓ) 
+Joul to eV ,6.241 509 34[14] e+18 ,- ,eV ,Basic SI-to-eV conversion 
+Mass to eV ,5.609 588 85[12] e+35 ,- ,eV ,energy = mass.c2 
+Atomic unit u to eV ,931.494 061[21] e+6 ,- ,eV ,a bit less than 1 GeV/atomic_unit  
+Frequency (1 Hz) to eV ,4.135 667 516[91] e-15 ,- ,eV ,energy = frequency*h 
+"Atomic mass constant u, mu ",1.660 538 921[73] e-27 ,kg ,,Mass of 12C nuclide / 12 
+Atomic mass energy (uc2) ,1.492 417 954[66] e-10 ,kg.m2.s-2,J ,931.494 061[21] MeV 
+Length / Distance ,,,,
+"Astronomical unit ua, au ",1.49597870[30] e+11 ,m ,~150 Gm ,Mean Earth-to-Sun distance 
+Light-year ly ,9.4607304725808 e+15 ,m ,~9.5 Pm ,Exact: light covers it in one Julian year 
+Parsec pc (~ 32.6 ly) ,3.08567757[60] e+16  ,m ,~30 Pm ,Corresponds to au parallax of 1 second 
+Time ,,,,
+Hour ,3.600 e+3 ,s ,,Exact: 3600 seconds 
+Day ,8.6400 e+4 ,s ,,Exact: 24 hours 
+Julian year ,3.1557600 e+7 ,s ,,Exact: 365.25 days 
+Gregorian year (mean) ,3.1556952 e+7 ,s ,,Exact: 365.2425 days 
+Tropical year (drops ~0.53 s/century) ,3.155692518747072 e+7 ,s ,,365.2421896698 days in year 2000 
+Plane and solid angles ,,,,
+1 radian in degrees ,5.729577951308232... e+1 ,Dimensionless ,"°, degree ",180/π; planar angle; 57° 17' 44.806247...'' 
+1° degree in radians ,1.745329251994330... e-2 ,Dimensionless ,rad ,π/180; planar angle 
+1' minute in radians ,2.908882086657215 ... e-4 ,Dimensionless ,rad ,π/180/60; planar angle 
+1'' second in radians ,4.848136811095359 ... e-6 ,Dimensionless ,rad ,π/180/60/60; planar angle 
+1 steradian in degree2 ,3.282806350011744... e+3 ,Dimensionless ,degree2 ,(180/π)2; for solid angle infinitesimals 
+1 degree2 in steradians ,3.046174197867086... e-4 ,Dimensionless ,sr ,(π/180)2; for solid angle infinitesimals 
+,,,,
